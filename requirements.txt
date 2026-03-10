@@ -1,0 +1,26 @@
+# Multi-agent orchestration
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-chroma>=0.1.0
+
+# LLM (OpenAI primary; Cohere optional)
+openai>=1.0.0
+cohere>=5.0.0
+
+# Financial data APIs
+yfinance>=0.2.40
+requests>=2.31.0
+
+# Vector store & embeddings
+chromadb>=0.4.0
+tiktoken>=0.7.0
+
+# Frontend
+streamlit>=1.30.0
+
+# Utilities
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
